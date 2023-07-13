@@ -1,0 +1,8 @@
+{
+	"appId": "com.demo.app",
+	"appName": "nuxt-capacitor-demo",
+	"webDir": "dist",
+	"server": {
+		"androidScheme": "https"
+	}
+}
